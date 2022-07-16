@@ -60,7 +60,7 @@ form {
     display: block;
     width: 25%;
     height: 25%;
-    background-color: #0288d1;
+    background-color: #0288d2;
     border-radius: 100%;
     animation: sk-chase-dot-before 2.0s infinite ease-in-out both; 
   }
